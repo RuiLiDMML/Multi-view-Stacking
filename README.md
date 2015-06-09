@@ -7,6 +7,8 @@ The code implements a four-view stacking, extend or modify the code if
 you have different number of views.
 
 reference:
+
+Li, R, Hapfelmeier, A, Schmidt, J, Perneczky, R, Drzezga, A, Kurz, A, and Kramer, S (2011).
 A case study of stacked multi-view learning in dementia research
 In: Proceedings of the 13th Conference on Artificial Intelligence in Medicine, 
 pp. 60–69, Bled, Slovenia, Springer-Verlag. Lecture Notes in Computer Science (LNCS).
