@@ -2,6 +2,7 @@ multi-view stacking
 
 Each view is a data source 
 You need to specifiy your 'train_view1', 'test_view1' etc. 'trueLabel' is the data label
+
 The code implements a four-view stacking, extend or modify the code if
 you have different number of views.
 
